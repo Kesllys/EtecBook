@@ -44,7 +44,7 @@
 .border-text::after {
     content: "Novo Por Aqui";
     position: absolute;
-    background-color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
     top: -13px;
     left: 33.3%;
     padding: 0 10px;

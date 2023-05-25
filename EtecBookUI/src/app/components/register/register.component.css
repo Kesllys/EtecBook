@@ -41,7 +41,7 @@
 .border-text::after {
     content: "Já Possui uma Conta?";
     position: absolute;
-    background-color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
     top: -13px;
     left: 28%;
     padding: 0 10px;
